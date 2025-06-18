@@ -1,0 +1,3 @@
+print("nigga")
+
+print("gay")
